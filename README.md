@@ -1,5 +1,5 @@
-# Data-Mining
-My implementation of the Data Mining algoritms like:
+# Data Mining
+My implementation of the Data Mining algorithms :
 1. Naive Bayes
 2. Logistics Regression
 3. Support Vector Machines
