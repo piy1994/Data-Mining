@@ -9,5 +9,5 @@ This repository contains implementation from scratch of the following Data Minin
 7. Boosted Trees
 8. K-means
 9. PCA(Pincipal Component Analysis)
-
+10. Neural Networks and Perceptron
 There's a readme in each section for detailed instruction
